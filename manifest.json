@@ -4,7 +4,7 @@
         "description": "An easier way to obtain saddles",
         "name": "Craftable Saddles",
         "uuid": "25d9492c-ae88-4ceb-9d6a-aceb1cb6524e",
-        "version": [0, 0, 1],
+        "version": [0, 1, 0],
         "min_engine_version": [1, 12, 0]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "An easier way to obtain saddles",
             "type": "data",
             "uuid": "9a5713bd-9736-4f35-8732-65e42a9f11e8",
-            "version": [0, 0, 1]
+            "version": [0, 1, 0]
         }
     ]
 }
